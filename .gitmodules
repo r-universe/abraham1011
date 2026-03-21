@@ -5,3 +5,6 @@
 [submodule "degradr"]
 	path = degradr
 	url = https://github.com/abraham1011/degradr
+[submodule "mixediffusion"]
+	path = mixediffusion
+	url = https://github.com/cran/mixediffusion
